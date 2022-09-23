@@ -1,1 +1,1 @@
-# -github_community_funding
+# github_community_funding
